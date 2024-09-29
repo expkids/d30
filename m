@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726341831430/fan.txt;md5;898ae43d224f936c7da77c375cd68284",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727428271693/fan.txt;md5;3d161697458ecbcd2651a749db761ba1",
   "sites": [
     {
       "key": "豆豆",
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czys.pro/"
+      "ext": "https://www.czzy77.com/"
     },
     {
       "key": "原创",
@@ -95,25 +95,26 @@
       "changeable": 1
     },
     {
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-    {
       "key": "萌米",
       "name": "👀萌米┃多线",
       "type": 3,
       "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "欢视",
+      "name": "👓欢视┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
     },
     {
       "key": "南瓜",
@@ -127,21 +128,21 @@
       "changeable": 1
     },
     {
-      "key": "樱花",
-      "name": "💥樱花┃多线",
+      "key": "热播",
+      "name": "📺热播┃多线",
       "type": 3,
-      "api": "csp_Yh007",
-      "timeout": 15,
+      "api": "csp_AppTT",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
       "key": "可可",
       "name": "👻可可┃多线",
       "type": 3,
       "api": "csp_Kekys",
-      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
