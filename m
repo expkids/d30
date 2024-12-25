@@ -385,7 +385,7 @@
     {
       "name": "ITV",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/expkids/disc/main/live.txt",
       "playerType": 1
     },
     {
