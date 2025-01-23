@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737018909312/f01162.txt;md5;5eaae4b083c5fc6c47c1cc0a204364b2",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737535398778/f0122.txt;md5;1aa6ec5b5545453d6850174fc1fcc78c",
   "sites": [
     {
       "key": "豆豆",
@@ -21,6 +21,25 @@
       "ext": "./json/duboku.json$$$proxy"
     },
     {
+      "key": "白白",
+      "name": "🐟白白┃秒播",
+      "type": 3,
+      "api": "csp_Sbaibai",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Lib",
       "name": "🌟立播┃秒播",
       "type": 3,
@@ -38,25 +57,6 @@
       "name": "💮文采┃秒播",
       "type": 3,
       "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmyswv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "白白",
-      "name": "🐭白白┃秒播",
-      "type": 3,
-      "api": "csp_Sbaibai",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -83,21 +83,21 @@
       "changeable": 1
     },
     {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "原创",
       "name": "☀原创┃不卡",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
       "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -112,6 +112,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzyvideo.com/"
+    },
+    {
+      "key": "AppSj",
+      "name": "👒视界┃多线",
+      "type": 3,
+      "api": "csp_AppSj",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "木星",
@@ -143,7 +153,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+      "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
     },
     {
       "key": "欢视",
