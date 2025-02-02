@@ -375,7 +375,7 @@
     {
       "name": "ITV",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/expkids/disc/main/live.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/expkids/live/main/CR.txt",
       "playerType": 1
     },
     {
