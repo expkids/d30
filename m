@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739519691417/f0214.txt;md5;0d0e3817ef4fd3f0526b3d52f60da991",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739695859502/f0216a.txt;md5;e7f40f74273fa4c916264d3ccba9a50f",
   "sites": [
     {
       "key": "豆豆",
@@ -53,10 +53,10 @@
       }
     },
     {
-      "key": "文采",
-      "name": "💮文采┃秒播",
+      "key": "流光",
+      "name": "💡流光┃秒播",
       "type": 3,
-      "api": "csp_Jpys",
+      "api": "csp_Lgyy",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -78,6 +78,16 @@
       "name": "🍄比特┃秒播",
       "type": 3,
       "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
