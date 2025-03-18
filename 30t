@@ -5,7 +5,7 @@
       "key": "豆豆",
       "name": "🌕全接口智能过滤广告",
       "type": 3,
-      "api": "csp_DouDouGuard",
+      "api": "csp_DouDou",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
