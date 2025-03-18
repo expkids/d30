@@ -1,7 +1,16 @@
 {
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt;md5;dda5ab42b722f13761900308a6caff89",
   "sites": [
-{"key":"豆","name":"🎁┃豆瓣┃影视","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
+    {
+      "key": "豆豆",
+      "name": "🌕全接口智能过滤广告",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+	    "indexs":1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "獨播",
       "name": "獨播",
