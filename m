@@ -15,6 +15,10 @@
 {"key":"火星","name":"🌞火星┃多线","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSlujLK3srq3iIoaYP8Hh5fZE0d4nF48/dsb7YNi44z/yjNcsFajjBz6XJtDuw2FdqR/a6UV3ywWevO"},
 {"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENEIVq+dC1p/Y9uWjuA=="},
 {"key":"贱贱","name":"🐭荐片┃P2P","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
+
+
+
+##dr_js系列
 {"key":"荐片","name":"🌟┃荐片┃JS","type":3,"viewType": 1,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/js/荐片.js"},
 {"key":"drpy_js_低端","name":"💫┃低端┃JS","type":3,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/ddys.js"},
 {"key": "dr_北川","name":"🍨┃北川┃JS","type":3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/北川影视.js"},
