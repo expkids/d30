@@ -200,7 +200,6 @@
 {"key": "dr_人人影视","name":"🎎┃人人┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/人人影视.js"},
 {"key": "dr_飞兔影视","name":"🐟┃飞兔┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/飞兔影视.js"},
 {"key": "dr_B站影视","name": "🌺┃B站┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/B站影视.js"},
-
     {
       "key": "push_agent",
       "name": "❌推送",
