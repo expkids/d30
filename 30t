@@ -2,9 +2,7 @@
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742915551028/f0324A.txt;md5;c0947ce019336d77ba7dacc2fe07f428",
   "sites": [
     {"key":"豆","name":"修复优汐原【神秘的哥哥们】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
-    {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"贱贱","name":"🐭荐片┃P2P","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
-
+    
     {
       "key": "獨播",
       "name": "獨播",
@@ -209,6 +207,19 @@
       "searchable": 0,
       "type": 3
     }
+##dr_js系列
+{"key":"荐片","name":"🌟┃荐片┃JS","type":3,"viewType": 1,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/js/荐片.js"},
+{"key":"drpy_js_低端","name":"💫┃低端┃JS","type":3,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/ddys.js"},
+{"key": "dr_北川","name":"🍨┃北川┃JS","type":3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/北川影视.js"},
+{"key": "dr_139影视","name":"🥨┃139电影┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/139影视.js"},
+{"key": "dr_看韩剧","name":"🍕┃看韩剧┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/看韩剧.js"},
+{"key": "dr_网飞TV","name":"📺┃网飞TV┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/网飞.TV.js"},
+{"key": "dr_home", "name": "🌈┃在线之家┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/在线之家.js"},
+{"key": "dr_大师兄","name":"🏃┃大师兄┃JS","type":3,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/大师兄影视.js"},
+{"key": "dr_人人影视","name":"🎎┃人人┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/人人影视.js"},
+{"key": "dr_飞兔影视","name":"🐟┃飞兔┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/飞兔影视.js"},
+{"key": "dr_B站影视","name": "🌺┃B站┃JS","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/B站影视.js"},
+
   ],
   "doh": [
     {
