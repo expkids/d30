@@ -3,16 +3,6 @@
   "sites": [
     {"key":"豆","name":"修复优汐原【神秘的哥哥们】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
     {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/pg.jar;md5;fd68da7454ada7e4783a267e7a9903c5",
-      "ext": "./json/duboku.json$$$proxy"
-    },
-    {
       "key": "糯米",
       "name": "🍓糯米┃秒播",
       "type": 3,
