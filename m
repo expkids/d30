@@ -190,6 +190,16 @@
       "ext": "https://auete.com/"
     },
     {
+      "key": "獨播",
+      "name": "🌈獨播┃外剧",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/pg.jar;md5;d17389497b7687e4dfba559b5d407c98",
+      "ext": "./json/duboku.json$$$proxy"
+    },
+    {
       "key": "低端",
       "name": "⏮️低端┃外剧",
       "type": 3,
