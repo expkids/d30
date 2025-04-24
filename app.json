@@ -17,7 +17,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json"
+      "ext": "./json/duboku.json$$$socks5://127.0.0.1:10172"
     },
     {
       "key": "Lib",
