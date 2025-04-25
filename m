@@ -186,7 +186,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./jar/pg.jar;md5;d17389497b7687e4dfba559b5d407c98",
+      "jar": "./jar/pg.jar;md5;1746d145c3d4a97069e20db0e1c80c6d",
       "ext": "./json/duboku.json$$$proxy"
     },
     {
