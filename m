@@ -1,5 +1,6 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745406107388/f0423a.txt;md5;d67e776740fc297d90f0310f701d8b83",
+  //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745406107388/f0423a.txt;md5;d67e776740fc297d90f0310f701d8b83",
+  "spider":"./jar/fan.txt;md5;948a482e3bad5bd090a87a6a85d38903",
   "sites": [
     {"key":"豆","name":"修复优汐原【神秘的哥哥们】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
     {
