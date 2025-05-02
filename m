@@ -134,6 +134,7 @@
       "name": "🍊水星┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
