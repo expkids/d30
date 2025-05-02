@@ -110,6 +110,7 @@
       "name": "📔厂长┃不卡",
       "type": 3,
       "api": "csp_NewCzGuard",
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
