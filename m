@@ -110,8 +110,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzymovie.com/"
+      "changeable": 1
     },
     {
       "key": "比特",
