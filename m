@@ -114,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
+      "ext": "https://www.czzymovie.com/"
     },
     {
       "key": "萌米",
