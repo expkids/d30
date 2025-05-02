@@ -1,5 +1,6 @@
 {
   "spider":"./jar/fan.txt;md5;948a482e3bad5bd090a87a6a85d38903",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆",
