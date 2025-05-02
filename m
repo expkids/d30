@@ -1,60 +1,68 @@
 {
-  //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745406107388/f0423a.txt;md5;d67e776740fc297d90f0310f701d8b83",
   "spider":"./jar/fan.txt;md5;948a482e3bad5bd090a87a6a85d38903",
   "sites": [
-    {"key":"豆","name":"修复优汐原【神秘的哥哥们】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
     {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
+      "key": "豆",
+      "name": "公众号【神秘的哥哥们】",
       "type": 3,
-      "api": "csp_NmyswvGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "白白",
       "name": "🐟白白┃秒播",
       "type": 3,
       "api": "csp_SbaibaiGuard",
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "神车",
-      "name": "🐻小熊┃秒播",
+      "key": "原创",
+      "name": "☀原创┃不卡",
       "type": 3,
-      "api": "csp_AppSKGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "rfOX1voDIQhH8epBwtCFsq+8syyZ18T30GkibomjS1xHcE9fpWU7oKJ1cO9K0M5hrnOHZ9dKjiJz5HEyTr57RZHCqunfFT7jH/mEy+uqVyo="
-    },
-    {
-      "key": "Lib",
-      "name": "🌟立播┃秒播",
-      "type": 3,
-      "api": "csp_LibvioGuard",
+      "api": "csp_YCyzGuard",
+      "timeout": 10,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
+      "changeable": 1
     },
     {
-      "key": "zxzj",
-      "name": "🍊在线┃秒播",
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
       "type": 3,
-      "api": "csp_ZxzjGuard",
-      "timeout": 15,
+      "api": "csp_LiteAppleGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
+      "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "溢彩",
@@ -68,130 +76,50 @@
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TfN183v1zIyaYDoDAIaLw5L8Dp8+v88LrEL3dBzrmWbdMBX0WNm7HtkQuw0AIzUurGBVyPqCKzDmbriATuukhctJlsLo8KxCw=="
     },
     {
-      "key": "比特",
-      "name": "🍄比特┃秒播",
+      "key": "Lib",
+      "name": "🌟立播┃秒播",
       "type": 3,
-      "api": "csp_BttwooGuard",
+      "api": "csp_LibvioGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
     {
-      "key": "文采",
-      "name": "💮文采┃秒播",
+      "key": "zxzj",
+      "name": "🍊在线┃秒播",
       "type": 3,
-      "api": "csp_JpysGuard",
-      "playerType": 2,
+      "api": "csp_ZxzjGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "原创",
-      "name": "☀原创┃不卡",
-      "type": 3,
-      "api": "csp_YCyzGuard",
-      "timeout": 15,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
-      "type": 3,
-      "api": "csp_LiteAppleGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
     },
     {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
       "api": "csp_NewCzGuard",
-      "timeout": 15,
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzymovie.com/"
+      "changeable": 1
     },
     {
-      "key": "萌米",
-      "name": "👀萌米┃多线",
+      "key": "比特",
+      "name": "🍄比特┃手机",
       "type": 3,
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
-    },
-    {
-      "key": "兄弟",
-      "name": "🍊水星┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
+      "api": "csp_BttwooGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
-    },
-    {
-      "key": "火星",
-      "name": "🌞火星┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3srq3iIoaYP8Hh5fZE0d4nF48/dsb7YNi44z/yjNcsFajjBz6XJtDuw2FdqR/a6UV3ywWevO"
-    },
-    {
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
-    {
-      "key": "欢视",
-      "name": "👓欢视┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT9fFAy5mE5qU="
-    },
-    {
-      "key": "奥特",
-      "name": "🏝奥特┃多线",
-      "type": 3,
-      "api": "csp_AueteGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.com/"
-    },
-    {
-      "key": "獨播",
-      "name": "🌈獨播┃外剧",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/pg.jar;md5;1746d145c3d4a97069e20db0e1c80c6d",
-      "ext": "./json/duboku.json$$$proxy"
+      "changeable": 1
     },
     {
       "key": "低端",
@@ -205,6 +133,75 @@
       "changeable": 1
     },
     {
+      "key": "萌米",
+      "name": "👀萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
+      "key": "兄弟",
+      "name": "🍊水星┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
+    },
+    {
+      "key": "即看",
+      "name": "🐻即看┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="
+    },
+    {
+      "key": "欢视",
+      "name": "👓欢视┃多线",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT9fFAy5mE5qU="
+    },
+    {
+      "key": "奥特",
+      "name": "🏝奥特┃多线",
+      "type": 3,
+      "api": "csp_AueteGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.com/"
+    },
+    {
       "key": "贱贱",
       "name": "🐭荐片┃P2P",
       "type": 3,
@@ -214,6 +211,36 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
+    },
+    {
+      "key": "神车",
+      "name": "🐻小熊┃秒播",
+      "type": 3,
+      "api": "csp_AppSKGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "rfOX1voDIQhH8epBwtCFsq+8syyZ18T30GkibomjS1xHcE9fpWU7oKJ1cO9K0M5hrnOHZ9dKjiJz5HEyTr57RZHCqunfFT7jH/mEy+uqVyo="
+    },
+    {
+      "key": "火星",
+      "name": "🌞火星┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3srq3iIoaYP8Hh5fZE0d4nF48/dsb7YNi44z/yjNcsFajjBz6XJtDuw2FdqR/a6UV3ywWevO"
+    },
+    {
+      "key": "獨播",
+      "name": "🌈獨播┃外剧",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/pg.jar;md5;1746d145c3d4a97069e20db0e1c80c6d",
+      "ext": "./json/duboku.json$$$proxy"
     },
     {
       "key": "push_agent",
