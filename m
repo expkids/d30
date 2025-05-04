@@ -476,11 +476,11 @@
       ]
     }
   ],
-  "lives": [
+ "lives": [
     {
-      "name": "ITV",
+      "name": "2025",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "url": "https://gh-proxy.com/https://github.com/expkids/live/raw/main/TW2025.txt",
       "playerType": 1
     },
     {
