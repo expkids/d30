@@ -484,7 +484,7 @@
 	"ua":"okhttp/3.12.13",
 	"timeout":20,
 	"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-	"logo":"https://logo.ugigc.dpdns.org/{name}.png"
+	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "IPV6",
