@@ -481,7 +481,7 @@
 	"type":0,
 	"url":"https://gh-proxy.com/https://github.com/expkids/live/raw/main/TW2025.txt",
 	"playerType":1,
-	"ua":"okhttp/3.8.1",
+	"ua":"okhttp/3.12.13",
 	"timeout":20,
 	"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 	"logo":"https://logo.ugigc.dpdns.org/{name}.png"
