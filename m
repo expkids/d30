@@ -483,7 +483,7 @@
 	"playerType":1,
 	"ua":"okhttp/3.12.13",
 	"timeout":20,
-	"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+	"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
