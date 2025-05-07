@@ -479,7 +479,7 @@
 "lives":[
     {"name":"2025",
 	"type":0,
-	"url":"https://gh-proxy.com/https://github.com/expkids/live/raw/main/TW2025.txt",
+	"url":"https://gh-proxy.com//raw.githubusercontent.com/expkids/live/main/TW2025.txt",
 	"playerType":1,
 	"ua":"okhttp/3.12.13",
 	"timeout":20,
