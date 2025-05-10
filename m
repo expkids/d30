@@ -244,7 +244,7 @@
       "jar": "./jar/pg.jar;md5;1746d145c3d4a97069e20db0e1c80c6d",
       "ext": "./json/duboku.json$$$proxy"
     },
-
+{"key":"xyqxbpq_泥視頻","name":"😚泥視頻","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"changeable":1},
 ##dr_js系列
 {"key":"荐片","name":"🌟┃荐片┃JS","type":3,"viewType": 1,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/js/荐片.js"},
 {"key":"drpy_js_低端","name":"💫┃低端┃JS","type":3,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/ddys.js"},
