@@ -77,20 +77,6 @@
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TfN183v1zIyaYDoDAIaLw5L8Dp8+v88LrEL3dBzrmWbdMBX0WNm7HtkQuw0AIzUurGBVyPqCKzDmbriATuukhctJlsLo8KxCw=="
     },
     {
-      "key": "Lib",
-      "name": "🌟立播┃秒播",
-      "type": 3,
-      "api": "csp_LibvioGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
       "key": "zxzj",
       "name": "🍊在线┃秒播",
       "type": 3,
@@ -100,17 +86,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzjhd.com/"
-    },
-    {
-      "key": "厂长",
-      "name": "📔厂长┃不卡",
-      "type": 3,
-      "api": "csp_NewCzGuard",
-      "timeout": 10,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "比特",
