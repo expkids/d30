@@ -24,6 +24,18 @@
       "changeable": 1
     },
     {
+      "key": "浪酷影视",
+      "name": "🍋浪酷｜影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchab le": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
+    },
+    {
       "key": "原创",
       "name": "☀原创┃不卡",
       "type": 3,
