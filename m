@@ -254,17 +254,25 @@
       "changeable": 0
     },
     {
-      "api": "csp_fan",
-      "changeable": 0,
-      "key": "cc",
-      "name": "❌请勿相信视频中任何广告",
+      "key": "fan",
+      "name": "❌导航 www.饭太硬.com",
+      "type": 3,
+      "api": "csp_XPathGuard",
+      "searchable": 1,
       "quickSearch": 0,
-      "searchable": 0,
-      "type": 3
+      "changeable": 0
+    },
+    {
+      "key": "cc",
+      "name": "❌请勿相信视频中广告",
+      "type": 3,
+      "api": "csp_XPathGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
     }
-	
-	
   ],
+	
   "doh": [
     {
       "name": "Google",
