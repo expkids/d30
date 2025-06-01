@@ -1,5 +1,6 @@
 {
-  "spider":"./jar/fan.txt;md5;42ef09340295f4070cedad37bf759ef3",
+  //"spider":"./jar/fan.txt;md5;42ef09340295f4070cedad37bf759ef3",
+  "spider":"./jar/fan.txt;md5;fc7b0752fe1f29b6c7a544e6af548599",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
