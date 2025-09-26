@@ -1,5 +1,6 @@
 {
-  "spider": "https://coss.yupoo.com/upchat/2025-09-25/1758799916045.jpg;md5;e0739e1404018d77ae4e039bf44094d7",
+  //"spider": "https://coss.yupoo.com/upchat/2025-09-25/1758799916045.jpg;md5;e0739e1404018d77ae4e039bf44094d7",
+    "spider":"./jar/fan.jpg;md5;e0739e1404018d77ae4e039bf44094d7",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -669,3 +670,4 @@
     }
   ]
 }
+
