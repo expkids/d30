@@ -19,6 +19,7 @@
 		{"key": "wli楓林網.py","name": "💥楓林網💥","api": "./py/楓林網.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
         {"key": "wli好剧影视.py","name": "💥好剧影视💥","api": "./py/好剧屋.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
         {"key": "wli豆花影视.py","name": "💥豆花影视💥","api": "./py/豆花影视.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
+		{"key": "ms影视.py","name": "💥ms影视💥","api": "./py/ms.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
 		{"key":"Yoursmile_9mui-麥田影視","name":"😚麥田影視🇭🇰","type":3,"api":"csp_XBPQ","jar":"./jar/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/AI.json"},
         {"key":"泥泥视频","name":"🍋泥泥┃视频","type":3,"api":"./js/drpy2.min.js","ext":"./js/泥泥视频.js"},
         {"key": "wlihqvod","name": "💥高清点播💥","api": "./js/高清点播.js","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
